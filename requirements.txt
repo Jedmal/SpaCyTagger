@@ -1,5 +1,6 @@
 flask
 gunicorn
-spacy
-pandas
+numpy==1.24.3
+pandas==2.0.1
+spacy==3.5.0
 pl_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-3.5.0/pl_core_news_sm-3.5.0.tar.gz
